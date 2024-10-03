@@ -4,7 +4,11 @@ Planet List: Displays a list of planets in the solar system, each with basic inf
 Planet Details: Upon selecting a planet, users can view more detailed information about it.
 User-Friendly Interface: A clean and easy-to-use design with smooth navigation between screens.
 
-[Screen_recording_20241003_092345.webm](https://github.com/user-attachments/assets/569b779d-9406-4cd4-ae2e-0cb59ace6338)
+
+
+
+https://github.com/user-attachments/assets/e2ce5cae-76c9-4962-9d21-32b8058bddbd
+
 
 
 <h1>Project Setup</h1>
